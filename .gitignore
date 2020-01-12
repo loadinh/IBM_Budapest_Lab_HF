@@ -18,6 +18,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Virtual env files
+venv/
+
+# PyCharm folder
+.idea/
+
 # =========================
 # Operating System Files
 # =========================
