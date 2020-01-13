@@ -21,6 +21,9 @@ $RECYCLE.BIN/
 # Virtual env files
 venv/
 
+# Cache
+__pycache__/
+
 # PyCharm folder
 .idea/
 
